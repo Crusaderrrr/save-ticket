@@ -15,6 +15,8 @@ In Claude Code:
 ```
 
 ## Use
+If you already have the ticket saved, then you can ask Claude something like "load the [ticket_name] into the context", 
+it will analyze the ticket and you can keep on working without needing to start from scratch 
 
 ```
 /save-ticket:save-ticket
