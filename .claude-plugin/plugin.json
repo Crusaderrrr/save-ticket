@@ -1,0 +1,8 @@
+{
+  "name": "save-ticket",
+  "version": "1.0.0",
+  "description": "Save per-ticket work state (status, open items, files in play) to .claude/tickets/<KEY>.md so it survives across Claude Code sessions.",
+  "author": { "name": "Crusaderrrr" },
+  "repository": "https://github.com/Crusaderrrr/save-ticket",
+  "license": "MIT"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "save-ticket",
+  "owner": { "name": "Crusaderrrr" },
+  "metadata": { "description": "save-ticket: per-ticket session state for Claude Code." },
+  "plugins": [
+    {
+      "name": "save-ticket",
+      "source": "./",
+      "description": "Save per-ticket work state to .claude/tickets/<KEY>.md across Claude Code sessions."
+    }
+  ]
+}
