@@ -1,3 +1,4 @@
+![save-ticket](assets/ChatGPT Image 6 окт. 2026 г., 12_15_27.png)
 # save-ticket
 
 A Claude Code skill that saves the state of the ticket you're working on — status, open items,
